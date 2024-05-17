@@ -19,5 +19,3 @@ TZ48gkP7Xg9GwvQJXugn1KkYWTgz4yKfiZ(TRC20)
 - prod server
 0xa6040be339c382943a8d4bdf8321854970270092 (ERC20)
 TG8eewNp6WePGYNDEQ3soS5jvugS8KJtyw (TRC20)
-
-https://drive.google.com/file/d/1MQ7Refk7rEnwBeDiv-HncXSTZZ1JD5Lj/view?usp=sharing
