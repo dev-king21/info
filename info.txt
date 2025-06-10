@@ -1,9 +1,7 @@
 - server1
-0xB21E9586BcaDA60AC09f6218D620E4ba589D5F00 (USDT/ERC20, BEP20)
-TUtRzMqxALZFxfjU3R7K4oXVFBuvHd52k3 (USDT/TRC20)
-bc1qtc8gys43fa0j5kehytz8d00hwl7ffxmewgshks (BTC)
+use server2 instead of server1.
 
-- server 2
+- server2
 0x2E419C9704eb91a8389810f3293756afAfe6C1Eb (USDT/ERC20, BEP20)
 TYx7JFA59guwWNoBdueWwSznx5CFFppvZh (USDT/TRC20)
 bc1q7qxss7gvdf5wul3dn3jgtns0c663a0nlkrukxn (BTC)
