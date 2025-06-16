@@ -1,5 +1,5 @@
 - server1,2
-use server3 instead of server1.
+use server3 instead of server1,2.
 
 -server3
 0x16ba6a5b0b5a37664ea2a595f21e368dc61c6ff7 (USDT/ERC20, BEP20)
