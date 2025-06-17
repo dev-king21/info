@@ -1,4 +1,4 @@
-- server1,2
+ - server1,2
 use server3 instead of server1,2.
 
 -server3
@@ -9,6 +9,6 @@ TJXooPBr5giRtNxTiD7gVffNxnRPCrdZ4Z (USDT/TRC20)
 0xe4839422fc9bdeaf92140fd10f0be7a21296ff9b (USDT/ERC20, BEP20)
 TCKaUumwxRy9XiYK47QUwwSrGHCYaE5426 (USDT/TRC20)
 
--prod server
+-prod server (only 30k+)
 0xc9c79fce3cAb2FaCc1e2A0ad905CEc1D49d7cD58 (ERC20/BEP20)
 TQ1xydEDSj9ooSVvYQzkGpTN3mJxvEtTzs (TRC20)
