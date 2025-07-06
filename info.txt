@@ -6,8 +6,9 @@ use server3 instead of server1,2.
 TJXooPBr5giRtNxTiD7gVffNxnRPCrdZ4Z (USDT/TRC20)
 
 -server4 
-TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
 0x6e6b252e52a38422527cc6be403BaC3A43aF9636 (ERC20, BEP20)
+TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
+
 -prod server (only 30k+)
 0xc9c79fce3cAb2FaCc1e2A0ad905CEc1D49d7cD58 (ERC20/BEP20)
 TQ1xydEDSj9ooSVvYQzkGpTN3mJxvEtTzs (TRC20)
