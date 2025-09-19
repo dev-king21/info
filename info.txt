@@ -9,5 +9,6 @@ don't use server3
 TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
 
 -prod server (only 30k+)
-0xDce80dab51d9ecdC9AD5107126041652e5Bfd971 (ERC20/BEP20)
-TYWdBfuQxA4BEKMcxxKYjWqq3kr4WdppCm (TRC20)
+0x91eb713e8c0cacf58fe60a55335ec12007a65510 (ERC20/BEP20)
+TAgsGgGydGqWjv7siGyrFHU5ZJoHocu3Hb (TRC20)
+
