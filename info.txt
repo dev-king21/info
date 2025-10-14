@@ -5,9 +5,8 @@ use server4 instead of server1,2.
 don't use server3
 
 -server4 
-0x6e6b252e52a38422527cc6be403BaC3A43aF9636 (ERC20, BEP20)
 TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
-
+(don't use bep20/trc20)
 -prod server
 0xDce80dab51d9ecdC9AD5107126041652e5Bfd971 (ERC20/BEP20)
 TQagVJcLUVuLqSsf6vBqRZ3vCMsdgs4CkX (TRC20)
