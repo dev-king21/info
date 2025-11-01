@@ -6,8 +6,7 @@ don't use server3
 
 -server4 
 TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
-(don't use bep20/trc20)
-please use server6 for bep20/trc20
+
 -server6
 0x3A4a033Edd3816B97B5ffBFc0571aCb212b1D2a0 (ERC20/BEP20)
 -prod server
