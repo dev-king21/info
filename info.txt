@@ -1,9 +1,3 @@
- - server1,2
-use server4 instead of server1,2.
-
--server3
-don't use server3
-
 -server4 
 TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
 
