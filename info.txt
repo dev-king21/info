@@ -1,5 +1,3 @@
--server4 
-TSFvyU1NncwKDQCy6FsaUPTdYhUYdHM82K (TRC20)
 -server5
 TJBKSAJG2JT35mB7ysUJqRJjxiwtVBDres (TRC20)
 
