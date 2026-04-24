@@ -4,7 +4,5 @@ TJBKSAJG2JT35mB7ysUJqRJjxiwtVBDres (TRC20)
 - server7
 0x9d7641cE66dA2c77A4cdfF9a854148e613860B2E (ERC20/BEP20)
 
-- server 9
-TDoRBzcCGuPNqRLaZkZZe8TZg89qvYmfuu (TRC20)
-
-bc1q2lv09ndkc6u5ywz3ylh4vhmfhsgcajypaelcq8 (BTC)
+- server 10
+TSJ72ovhfAbKs4iJENbKbS91gkeZkiCcWv (TRC20)
